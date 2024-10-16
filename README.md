@@ -1,7 +1,7 @@
 ## Beginner
 
 1. **Getting Started: C#**
-    - **Task:** Build a console application to manage a simple to-do list with add, remove, and list functionalities.
+    - **Task:** **Build a console application to manage a simple to-do list with add, remove, and list functionalities.**
 
 2. **From Zero to Hero: Writing Clean Code with C#**
     - **Task:** Refactor the to-do list application to improve readability and maintainability.
