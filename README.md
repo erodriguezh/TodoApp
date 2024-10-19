@@ -1,10 +1,10 @@
 ## Beginner
 
 1. **Getting Started: C#**
-    - **Task:** **Build a console application to manage a simple to-do list with add, remove, and list functionalities.**
+    - **Task:** Build a console application to manage a simple to-do list with add, remove, and list functionalities.
 
 2. **From Zero to Hero: Writing Clean Code with C#**
-    - **Task:** Refactor the to-do list application to improve readability and maintainability.
+    - **Task:** **Refactor the to-do list application to improve readability and maintainability.**
 
 3. **From Zero to Hero: SOLID Principles for C# Developers**
     - **Task:** Extend the to-do list app by adding categories, adhering to SOLID principles.
